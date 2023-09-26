@@ -824,6 +824,6 @@ bob@dylan:~$
 
 * File: [100-seat.js](./100-seat.js)
 
-### Authors &copy;
+### Author &copy;
 
-- Eyoul Shimeles
+- Ogochukwu GloriaMary Nwanochiri
